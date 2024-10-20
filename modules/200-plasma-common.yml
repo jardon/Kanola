@@ -2,6 +2,7 @@ name: plasma-common
 type: apt
 source:
   packages:
+  - gnome-icon-theme
   - heif-thumbnailer
   - webp-pixbuf-loader
   - bluedevil
